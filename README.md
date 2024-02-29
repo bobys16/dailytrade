@@ -24,10 +24,22 @@ Welcome to the Copy Trading Platform project repository! This platform allows us
 
 ## Demo
 
+**Dashboard**
+
 Explore the live demo [here](https://trade.solvine.online).
 
 **username**  : company
+
 **password** : AdminAdmin
+
+**Admin Dashboard**
+
+Explore the live demo [here](https://trade.solvine.online/admin/login).
+
+**username**  : demo
+
+**password** : demo
+
 
 ## Screenshots
 
