@@ -37,9 +37,9 @@ Welcome to the Copy Trading Platform project repository! This platform allows us
 
 1. Clone the repository:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/bobys16/dailytrade.git
-   \`\`\`
+   ```
 
 2. Set up your PHP environment:
 
@@ -47,20 +47,20 @@ Welcome to the Copy Trading Platform project repository! This platform allows us
 
 3. Configure environment variables:
 
-   Create a \`.env\` file in the root directory and add necessary environment variables such as database credentials, API keys, and server configurations.
+   Create a `.env` file in the root directory and add necessary environment variables such as database credentials, API keys, and server configurations.
 
 4. Start the server:
 
    Use a PHP server to run the project. You can use the built-in PHP server for development:
 
-   \`\`\`bash
+   ```bash
    cd dailytrade
    php -S localhost:8000
-   \`\`\`
+   ```
 
 5. Access the platform:
 
-   Open your web browser and navigate to \`http://localhost:8000\` to access the copy trading platform.
+   Open your web browser and navigate to `http://localhost:8000` to access the copy trading platform.
 
 ## Contributing
 
