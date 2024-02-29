@@ -24,14 +24,17 @@ Welcome to the Copy Trading Platform project repository! This platform allows us
 
 ## Screenshots
 
-![Trading View](screenshots/trading_view.png)
+![Trading View](screenshots/ss1.jpg)
 *Trading View: Monitor market trends and analyze charts.*
 
-![Copy Trade](screenshots/copy_trade.png)
+![Copy Trade](screenshots/ss2.jpg)
 *Copy Trade: Follow experienced traders and replicate their trades.*
 
-![Profile Settings](screenshots/profile_settings.png)
+![Balance Management](screenshots/ss3.jpg)
 *Profile Settings: Customize your profile and adjust trading preferences.*
+
+![Admin Dashboard](screenshots/ss4.jpg)
+*Setting up the website and it's features*
 
 ## Installation
 
