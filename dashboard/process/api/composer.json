@@ -1,0 +1,6 @@
+{
+    "require": {
+        "iexbase/tron-api": "^3.1",
+        "web3p/web3.php": "dev-master"
+    }
+}
