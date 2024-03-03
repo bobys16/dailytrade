@@ -15,13 +15,13 @@ function Elz_Mail($to, $to_name, $subject, $body) {
     $mail->Port = "465"; // 8025, 587 and 25 can also be used. Use Port 465 for SSL.
     $mail->SMTPAuth = true;
 
-    $mail->Username = "support@dailytrade.live";
-    $mail->Password = "Bobys123";
+    $mail->Username = "";
+    $mail->Password = "";
     
-    $mail->From = "support@dailytrade.live";
-    $mail->FromName = "Daily Trade SG";
+    $mail->From = "";
+    $mail->FromName = "";
     $mail->AddAddress($to);
-    $mail->AddReplyTo("support@dailytrade.live", "Daily Trade");
+    $mail->AddReplyTo("", "");
     
     $mail->Subject = $subject;
     $mail->Body = "$body";
